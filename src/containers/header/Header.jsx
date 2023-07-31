@@ -16,7 +16,7 @@ function Header() {
             <button type='button'>Get started</button>
           </div>
         <div className='gpt3__header-content__people'>
-          <img src={people}/>
+          <img src={people} alt='people'/>
           <p>1,600,000 people have requested acess</p>
         </div>
         </div>
