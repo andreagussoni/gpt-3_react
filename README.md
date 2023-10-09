@@ -1,3 +1,9 @@
+Frontend next.js design focused app deployed with github actions automation.
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
